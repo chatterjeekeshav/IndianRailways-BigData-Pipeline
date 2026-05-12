@@ -54,3 +54,6 @@ RailFlow is a production-grade data lakehouse built on Azure Databricks and PySp
     Storage: Delta Lake (ACID compliant)
 
     Orchestration: Unity Catalog for data governance
+
+
+NOTE: This repository uses a 500-row sample for lightweight cloning, while the underlying logic is fully optimized for the 76.8M record production dataset. In accordance with Big Data best practices, the ~1GB raw source is excluded from version control to favor a decoupled architecture designed for cloud storage like Azure Data Lake Storage (ADLS).
