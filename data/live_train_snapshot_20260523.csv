@@ -1,0 +1,16 @@
+train_no,train_name,zone,current_station,station_code,scheduled_dep,actual_dep,delay_mins,status,run_date,data_source
+12951,Mumbai Rajdhani Express,WR,Vadodara Jn,BRC,16:35,17:05,30,Running,20260523,NTES_Snapshot
+12301,Howrah Rajdhani Express,ER,Dhanbad Jn,DHN,13:55,14:10,15,Running,20260523,NTES_Snapshot
+12002,New Delhi Shatabdi,NCR,Jhansi,JHS,06:00,06:00,0,On Time,20260523,NTES_Snapshot
+22691,Rajdhani Express,SWR,Nagpur,NGP,20:15,21:45,90,Late,20260523,NTES_Snapshot
+12259,Duronto Express,ER,Patna,PNBE,08:05,08:20,15,Running,20260523,NTES_Snapshot
+12013,Amritsar Shatabdi,NR,Ambala Cantt,UMB,07:20,07:20,0,On Time,20260523,NTES_Snapshot
+20504,Vande Bharat Express,NR,Ludhiana,LDH,06:00,06:00,0,On Time,20260523,NTES_Snapshot
+12627,Karnataka Express,SWR,Bhopal Jn,BPL,19:30,20:55,85,Late,20260523,NTES_Snapshot
+12621,Tamil Nadu Express,SR,Nagpur,NGP,22:00,23:12,72,Late,20260523,NTES_Snapshot
+12225,Azad Hind Express,CR,Rourkela,ROU,11:45,11:55,10,Running,20260523,NTES_Snapshot
+12309,Rajendra Nagar Express,ECR,Mughalsarai,MGS,08:50,10:20,90,Late,20260523,NTES_Snapshot
+19031,Harapriya Express,WR,Surat,ST,11:20,11:20,0,On Time,20260523,NTES_Snapshot
+12025,Pune Shatabdi,CR,Lonavala,LNL,07:10,07:15,5,Running,20260523,NTES_Snapshot
+12503,Bengaluru Humsafar,SWR,Warangal,WL,23:30,23:30,0,On Time,20260523,NTES_Snapshot
+12649,Karnataka Sampark Kranti,SWR,Itarsi Jn,ET,21:40,23:05,85,Late,20260523,NTES_Snapshot

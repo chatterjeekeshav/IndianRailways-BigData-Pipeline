@@ -1,0 +1,17 @@
+surrogate_key,train_no,train_name,zone,origin_station,dest_station,scheduled_dep,scheduled_arr,journey_duration_h,route_stops,distance_km,frequency,eff_from_date,eff_to_date,is_current,change_reason
+TRN-22691-V1-2022,22691,Rajdhani Express,CR,SBC,NDLS,20:15,07:55,35.7,22,2444,Daily,2022-01-01,2024-05-31,N,Initial load — CR zone
+TRN-22691-V2-2024,22691,Rajdhani Express,SWR,SBC,NDLS,20:15,07:55,35.7,22,2444,Daily,2024-06-01,9999-12-31,Y,Zone handoff CR→SWR
+TRN-12301-V1-2019,12301,Howrah Rajdhani Express,ER,HWH,NDLS,13:55,10:05,20.2,6,1441,Daily,2019-06-01,2023-11-30,N,Initial load
+TRN-12301-V2-2023,12301,Howrah Rajdhani Express,ER,HWH,NDLS,13:55,09:55,20.0,5,1441,Daily,2023-12-01,9999-12-31,Y,Schedule optimised -10min, 1 stop removed
+TRN-12002-V1-2015,12002,Bhopal Shatabdi Express,NCR,NDLS,BPL,06:00,14:00,8.0,4,704,Daily,2015-01-01,2025-12-31,N,Initial load — ICF rake
+TRN-12002-V2-2026,12002,New Delhi Shatabdi,NCR,NDLS,BPL,06:00,13:45,7.75,4,704,Daily,2026-01-01,9999-12-31,Y,Vande Bharat upgrade + rename
+TRN-12951-V1-2010,12951,Mumbai Rajdhani Express,WR,MMCT,NDLS,17:00,08:35,15.6,4,1384,Daily,2010-01-01,2025-11-11,N,Initial load
+TRN-12951-V2-2025,12951,Mumbai Rajdhani Express,WR,MMCT,NDLS,16:35,08:35,16.0,4,1384,Daily,2025-11-12,9999-12-31,Y,Departure revised -25min
+TRN-12621-V1-2018,12621,Tamil Nadu Express,SR,MAS,NDLS,22:00,07:10,33.2,13,2184,Daily,2018-01-01,9999-12-31,Y,Initial load
+TRN-20504-V1-2023,20504,Vande Bharat Express,NR,NDLS,SVDK,06:00,11:30,5.5,3,655,Daily,2023-04-01,9999-12-31,Y,New service launch
+TRN-12627-V1-2020,12627,Karnataka Express,SWR,SBC,NDLS,19:30,10:30,39.0,35,3075,Daily,2020-01-01,9999-12-31,Y,Initial load
+TRN-12649-V1-2021,12649,Karnataka Sampark Kranti,SWR,YPR,NDLS,21:40,07:10,33.5,18,2628,BiWeekly,2021-03-01,9999-12-31,Y,Initial load
+TRN-12309-V1-2019,12309,Rajendra Nagar Express,ECR,RJPB,NDLS,08:50,12:20,27.5,14,1005,Daily,2019-01-01,2024-06-30,N,Initial load
+TRN-12309-V2-2024,12309,Rajendra Nagar Express,ECR,RJPB,NDLS,08:50,12:20,27.5,17,1085,Daily,2024-07-01,9999-12-31,Y,Route extended — 3 new stops
+TRN-12013-V1-2022,12013,Amritsar Shatabdi,NR,NDLS,ASR,07:20,13:10,5.83,5,449,Daily,2022-01-01,9999-12-31,Y,Initial load
+TRN-12025-V1-2023,12025,Pune Shatabdi,CR,PUNE,MMCT,07:10,09:30,2.33,2,192,Daily,2023-06-01,9999-12-31,Y,Initial load
